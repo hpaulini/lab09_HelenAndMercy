@@ -1,2 +1,1 @@
-# lab09_HelenAndMercy
-Lab 9!
+Lab 9, Team Members: Helen and Mercy
